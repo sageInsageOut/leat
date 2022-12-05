@@ -207,17 +207,17 @@ section	.contain	i{
    }
    .card-image-1{
       grid-area: image;
-      background-image:url("img/pexel.jpeg");
+      background-image:url("pexel.jpeg");
       background-size: cover;
       }
       .card-image-2{
       	grid-area: image;
-      	background-image: url("img/street.jpg");
+      	background-image: url("street.jpg");
       	background-size: cover;
       }
       .card-image-3{
       	grid-area: image;
-      	background-image: url("img/stret.jpg");
+      	background-image: url("stret.jpg");
       	background-size: cover;
       }
 
